@@ -7,6 +7,7 @@ Klickbare **Demo** eines geteilten Team-Kalenders für Haardesign Da Giovanni, B
 
 - Reine Demo ohne Server: Alle Daten liegen nur im Browser (localStorage). Namen, Kund:innen und Termine sind Beispieldaten.
 - Die Kunden-App (https://thundertiger187.github.io/salon-demo/) ist eine eigene Demo – Buchungen werden **nicht** zwischen den Apps abgeglichen.
+- Zwei Designs: „Klassisch“ (Standard) und „Glas“ (hell, Milchglas-Effekte) – umschaltbar in der Seitenleiste unter „Design“, gespeichert pro Gerät.
 - Dieses Repository enthält nur die gebauten, minifizierten Dateien, keinen Quellcode.
 
 © 2026 – Alle Rechte vorbehalten. Keine Lizenz: Nutzung, Kopie, Veränderung oder Weitergabe nur mit ausdrücklicher Genehmigung.
